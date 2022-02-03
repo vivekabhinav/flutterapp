@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter tutorials.
+A new Flutter App.
 
 ## Getting Started
 
